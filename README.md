@@ -1,4 +1,4 @@
-# Simple Go prject with Docker
+# Simple Go project with Docker
 In this project I used Docker with a simple Go project.
 
 ## Technologies Used
